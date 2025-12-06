@@ -1,0 +1,9 @@
+  # Plugin directories (si usas lazy.nvim, packer, etc.)
+  plugin/
+  lazy-lock.json
+
+  # Temporary files
+  *.swp
+  *.swo
+  *~
+  .DS_Store
